@@ -7,7 +7,7 @@
 
 :root {
   --color-primary: #191d2b;
-  --color-secondary: #a42a15;
+  --color-secondary: #1c0de7;
   --color-white: #FFFFFF;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -311,21 +311,21 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 95%;
+  width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
+  width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 78%;
+  width: 50%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .photoshop {
-  width: 97%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .uxui {
-  width: 15%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .java {
+  width: 40%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
+  width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .ux {
   width: 50%;
 }
 
